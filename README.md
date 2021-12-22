@@ -1,4 +1,4 @@
-* Task tracker app built using React.
+# Task tracker app built using React.
 
 ### Steps to run this project:
 ###### Run "npm install" 
